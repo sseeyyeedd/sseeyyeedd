@@ -3,8 +3,8 @@
 ### I’m C# Developer And WebDesigner💻
 ### I love programming❤️
 ### I'm searching for the Unlimited♾️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseeyyeedd&show_icons=true&theme=dark&layout=compact)](https://github.com/sseeyyeedd/sseeyyeedd)
-![sseeyyeedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseeyyeedd&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseeyyeedd&show_icons=true&theme=transparent&layout=compact)](https://github.com/sseeyyeedd/sseeyyeedd)
+
 <!--
 **sseeyyeedd/sseeyyeedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
