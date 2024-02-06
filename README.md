@@ -2,8 +2,8 @@
 ### I’m SeyedAli Hoseini
 ### I’m C# Developer And WebDesigner💻
 ### I love programming❤️
-### I'm finding for the Unlimited♾️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseeyyeedd)](https://github.com/sseeyyeedd/sseeyyeedd)
+### I'm searching for the Unlimited♾️
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseeyyeedd&show_icons=true&theme=dark)](https://github.com/sseeyyeedd/sseeyyeedd)
 <!--
 **sseeyyeedd/sseeyyeedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
