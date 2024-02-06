@@ -3,7 +3,10 @@
 ### I’m C# Developer And WebDesigner💻
 ### I love programming❤️
 ### I'm finding for the Unlimited♾️
-
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dark" alt="sseeyyeedd" />
+<div/>
+<br />
 <!--
 **sseeyyeedd/sseeyyeedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
