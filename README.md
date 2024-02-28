@@ -1,8 +1,5 @@
-### Hi👋
-### I’m SeyedAli Hoseini
-### I’m C# Developer And WebDesigner💻
-### I love programming❤️
-### I'm searching for the Unlimited♾️
+###Dotnet and FrontEnd developer
+💻♾️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseeyyeedd&show_icons=true&theme=transparent&layout=compact)](https://github.com/sseeyyeedd/sseeyyeedd)
 
 <!--
